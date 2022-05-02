@@ -1,0 +1,6 @@
+Tasks:
+    ☐ Refactor number generator with random library. do not use numpy
+    ☐ use sneak_case to for naming methods and sensros
+    ☐ write your code in pure python not jupyter notebooks => install pycharm
+    ☐ add doc string for all mnthods
+    ☐ write method load config function in main.py
