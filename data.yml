@@ -1,0 +1,107 @@
+ElectricalSystem:
+  CurrentAverage: 80
+  CurrentVariance: 6
+  PowerFactorAverage: 0.2
+  PowerFactorVariance: 0.1
+  VolAverag: 220
+  VolVaridance: 4
+EnvironmentalSensors1:
+  RoomHumidityAverage: 30
+  RoomHumidityVariance: 3
+  RoomTempAverage: 23
+  RoomTempVariance: 0.5
+EnvironmentalSensors2:
+  RoomHumidityAverage: 33
+  RoomHumidityVariance: 2
+  RoomTempAverage: 24
+  RoomTempVariance: 1
+EnvironmentalSensors3:
+  RoomHumidityAverage: 36
+  RoomHumidityVariance: 1
+  RoomTempAverage: 25
+  RoomTempVariance: 1.5
+EnvironmentalSensors4:
+  RoomHumidityAverage: 39
+  RoomHumidityVariance: 3
+  RoomTempAverage: 26
+  RoomTempVariance: 2
+EnvironmentalSensors5:
+  RoomHumidityAverage: 42
+  RoomHumidityVariance: 2
+  RoomTempAverage: 27
+  RoomTempVariance: 3
+EnvironmentalSensors6:
+  RoomHumidityAverage: 34
+  RoomHumidityVariance: 1
+  RoomTempAverage: 25
+  RoomTempVariance: 1.2
+EnvironmentalSensors7:
+  RoomHumidityAverage: 38
+  RoomHumidityVariance: 3
+  RoomTempAverage: 26
+  RoomTempVariance: 2.1
+EnvironmentalSensors8:
+  RoomHumidityAverage: 40
+  RoomHumidityVariance: 2
+  RoomTempAverage: 27
+  RoomTempVariance: 2.8
+Fridge1:
+  HumidityAverage: 10
+  HumidityVariance: 0.4
+  TemperatureAverage: -4
+  TemperatureVariance: 1.5
+Fridge10:
+  HumidityAverage: 28
+  HumidityVariance: 1.3
+  TemperatureAverage: 5
+  TemperatureVariance: 0.6
+Fridge11:
+  HumidityAverage: 30
+  HumidityVariance: 1.4
+  TemperatureAverage: 0
+  TemperatureVariance: 0.5
+Fridge12:
+  HumidityAverage: 32
+  HumidityVariance: 1.5
+  TemperatureAverage: -1
+  TemperatureVariance: 0.4
+Fridge2:
+  HumidityAverage: 12
+  HumidityVariance: 0.5
+  TemperatureAverage: -3
+  TemperatureVariance: 1.4
+Fridge3:
+  HumidityAverage: 14
+  HumidityVariance: 0.6
+  TemperatureAverage: -2
+  TemperatureVariance: 1.3
+Fridge4:
+  HumidityAverage: 16
+  HumidityVariance: 0.7
+  TemperatureAverage: -1
+  TemperatureVariance: 1.2
+Fridge5:
+  HumidityAverage: 18
+  HumidityVariance: 0.8
+  TemperatureAverage: 0
+  TemperatureVariance: 1.1
+Fridge6:
+  HumidityAverage: 20
+  HumidityVariance: 0.9
+  TemperatureAverage: 1
+  TemperatureVariance: 1
+Fridge7:
+  HumidityAverage: 22
+  HumidityVariance: 1
+  TemperatureAverage: 2
+  TemperatureVariance: 0.9
+Fridge8:
+  HumidityAverage: 24
+  HumidityVariance: 1.1
+  TemperatureAverage: 3
+  TemperatureVariance: 0.8
+Fridge9:
+  HumidityAverage: 26
+  HumidityVariance: 1.2
+  TemperatureAverage: 4
+  TemperatureVariance: 0.7
